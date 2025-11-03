@@ -1,7 +1,7 @@
 Hi 👋 My name is Emmanuel
 =========================
 
-Web Developer and Data Analyst
+App Developer and Data Analyst
 ------------------------------
 
 I'm good with HTML, CSS, GIT, SPSS and am still learning JavaScript Python, PHP and other necessary languages
